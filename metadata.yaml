@@ -1,0 +1,35 @@
+_repo: Claude-Monet-les-Nympheas_75353
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clemenceau, Georges
+    aliases:
+    - Clemenceau, Georges Eugène Benjamin
+    - Clemenceau, Georges Eugene Benjamin
+    birthdate: 1841
+    deathdate: 1929
+    gutenberg_agent_id: '40732'
+    url: http://www.gutenberg.org/2009/agents/40732
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Georges_Clemenceau
+    - https://en.wikipedia.org/wiki/Georges_Clemenceau
+description: ''
+gutenberg_issued: '2025-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75353'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015020710540&seq=10
+pgterms:marc905: 20241215023255clemenceau
+pgterms:marc906: '1928'
+pgterms:marc907: FR
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bLibrairie Plon, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Claude Monet; les Nympheas
+url: http://www.gutenberg.org/ebooks/75353
